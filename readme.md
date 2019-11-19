@@ -23,7 +23,7 @@ Create database if not exists
 
 You can use `GET`, `PUT` and `POST` methods.
 
-# Routes
+### Routes
 
 * put - `/material-group/{id}`
 * post and get - `/material-group`
