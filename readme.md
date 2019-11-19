@@ -19,6 +19,8 @@ Create database if not exists
 `docker exec -it <db_container> mysql -u root -p`
 `CREATE DATABASE laravel_app`
 
+`PHP artisan migrate`
+
 ## API REQUESTS
 
 You can use `GET`, `PUT` and `POST` methods.
